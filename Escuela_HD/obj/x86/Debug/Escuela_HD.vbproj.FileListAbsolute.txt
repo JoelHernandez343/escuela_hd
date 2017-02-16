@@ -1,0 +1,106 @@
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\bin\Debug\MetroFramework.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form1.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form2.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.xml
+C:\Users\Usuario\Desktop\Nueva carpeta\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.pdb
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.exe
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.xml
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.pdb
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.exe
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.pdb
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.xml
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbprojResolveAssemblyReference.cache
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form1.resources
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form2.resources
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Resources.resources
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbproj.GenerateResource.Cache
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form3.resources
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form4.resources
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form5.resources
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.FormCategorias.resources
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.FormConsultaCustom.resources
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form8.resources
+C:\Users\Joel Hernández\Downloads\escuelahd-master\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form9.resources
+C:\Users\Joel Hernández\Downloads\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.exe
+C:\Users\Joel Hernández\Downloads\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.xml
+C:\Users\Joel Hernández\Downloads\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.pdb
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.exe
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.xml
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.pdb
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.exe
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.pdb
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.xml
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form1.resources
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form2.resources
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form3.resources
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form4.resources
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form5.resources
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.FormCategorias.resources
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.FormConsultaCustom.resources
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form8.resources
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form9.resources
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Resources.resources
+C:\Users\Usuario\Downloads\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbproj.GenerateResource.Cache
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.exe
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.xml
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.pdb
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.exe
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.pdb
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.xml
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbprojResolveAssemblyReference.cache
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form1.resources
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form2.resources
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form3.resources
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form4.resources
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form5.resources
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.FormCategorias.resources
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.FormConsultaCustom.resources
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form8.resources
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form9.resources
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Resources.resources
+H:\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbproj.GenerateResource.Cache
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.exe
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.xml
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.pdb
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.exe
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.pdb
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.xml
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbprojResolveAssemblyReference.cache
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form1.resources
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form2.resources
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form3.resources
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form4.resources
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form5.resources
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.FormCategorias.resources
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.FormConsultaCustom.resources
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form8.resources
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form9.resources
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Resources.resources
+E:\Drive\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbproj.GenerateResource.Cache
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.exe
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.xml
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.pdb
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbprojResolveAssemblyReference.cache
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form1.resources
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form2.resources
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form3.resources
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form4.resources
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form5.resources
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.FormCategorias.resources
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.FormConsultaCustom.resources
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form8.resources
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Form9.resources
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.Resources.resources
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\obj\x86\Debug\Escuela_HD.vbproj.GenerateResource.Cache
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.exe
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.pdb
+C:\Users\Joel Hernández\Desktop\PROYECTO\escuelahd-master-DSGComplete!\escuelahd-master-DSGComplete!\escuelahd-master\Escuela_HD\Escuela_HD\bin\Debug\Escuela_HD.xml
